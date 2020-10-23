@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device - scale, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <title>Carlos - Photographer</title>
+    <link rel="shortcut icon" type="image/jpg" href="images/favicon.png"/>
 </head>
 <body>
 
@@ -328,7 +329,7 @@
                     </div>
                     <div class="info-item">
                         <h5>Email</h5>
-                        <p>carlosgraphics@gmail.com</p>
+                        <p>carlosgraphics.photography@gmail.com</p>
                     </div>
                     <!--info item end-->
                 </div>
